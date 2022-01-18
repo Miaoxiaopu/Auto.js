@@ -60,10 +60,10 @@ public class ScreenCapturer {
         mScreenDensity = screenDensity;
         mHandler = handler;
         mProjectionManager = (MediaProjectionManager) context.getSystemService(Context.MEDIA_PROJECTION_SERVICE);
-        mMediaProjection = mProjectionManager.getMediaProjection(Activity.RESULT_OK, (Intent) mData.clone());
+//        mMediaProjection = mProjectionManager.getMediaProjection(Activity.RESULT_OK, (Intent) mData.clone());
         mHandler = handler;
         setOrientation(orientation);
-        observeOrientation();
+//        observeOrientation();
     }
 
     private void observeOrientation() {
