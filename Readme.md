@@ -1,6 +1,6 @@
 # Auto.js
 
-[中文Readme](https://github.com/hyb1996/Auto.js/blob/master/Readme-cn.md)
+[中文Readme](https://github.com/Miaoxiaopu/Auto.js/blob/master/Readme-cn.md)
 
 ## Important
 
